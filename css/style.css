@@ -1,0 +1,85 @@
+.headline {
+  font-family: "Open Sans", sans-serif; 
+  font-size: 16px;
+  font-weight: bold;
+  color: #E1624F;
+}
+
+body {
+  background-color: #F5F4F0 ;
+}
+
+h1 {
+  font-family: "Open Sans", sans-serif; 
+  font-size: 36px;
+  font-weight: bold;
+  color: #1B1B1B;
+  padding-bottom: 40px;
+  }
+
+  h2 {
+    font-family: "Open Sans", sans-serif; 
+    font-size: 32px;
+    font-weight: bold;
+    padding-bottom: 8px;
+    padding-top: 2px;
+    color: #1B1B1B;
+  }
+
+  h3 {
+    font-family: "Open Sans", sans-serif; 
+    font-size: 28px;
+    font-weight: bold;
+    padding-bottom: 4px;
+    padding-top: 20px;
+    color: #1B1B1B;
+  }
+
+  img {
+    border-radius: 28px;
+  }
+
+#description-img {
+  font-family: "Open Sans", sans-serif; 
+  font-size: 16px;
+  font-style: italic;
+  color: #333333;
+  padding-bottom: 44px;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  margin: 36px 0 64px;
+  background-color: #d9d9d9;
+}
+
+#destinos {
+  font-family: "Open Sans", sans-serif; 
+  font-size: 16px;
+  color: #333333;
+  padding-bottom: 64px;
+}
+
+p {
+  font-family: "Open Sans", sans-serif; 
+  font-size: 16px;
+  color: #333333;
+}
+
+li {
+  font-family: "Open Sans", sans-serif; 
+  font-size: 16px;
+  font-weight: bold;
+  color: #0C51A7;
+}
+
+main {
+  padding-bottom: 48px;
+}
+
+footer {
+  font-family: "Alice", sans-serif; 
+  font-size: 16px;
+  color: #333333;
+}
